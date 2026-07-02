@@ -1,36 +1,42 @@
 <h1 align="center">Hi 👋, I'm Vimesh Kumar Mishra</h1>
-<h3 align="center">Data Analyst | MIS Reporting & Automation | SQL · BigQuery · Power BI · Looker Studio</h3>
+
+<h3 align="center">
+  🎯 Data Analyst | MIS Reporting & Automation<br/>
+  SQL · BigQuery · Power BI · Looker Studio · Google Sheets · Apps Script
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrvimeshmishra-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mrvimeshmishra-code&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/mrvimeshmishra-code?label=Followers&style=flat-square&color=blue" alt="followers" />
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 💼 Currently working as **Data Analyst at Carrum Mobility Solutions**, Gurugram
+- 💼 **Data Analyst @ Carrum Mobility Solutions**, Gurugram *(Aug 2024 – Present)*
 - 📊 **3+ years** of experience in MIS Reporting, Data Automation & KPI Dashboard Development
-- 🚀 Reduced manual reporting effort by **50%+** using automated dashboards
+- 🚀 Delivered **10+ automated reporting systems** — reduced manual effort by **50%+**
 - 🧠 Expert in translating raw data into **clear, actionable insights**
-- 📍 Based in **Gurugram, Haryana, India**
-- 📬 Reach me at: **mr.vimeshmishra@gmail.com**
-- 🌐 Languages: **English & Hindi**
+- 📬 **mr.vimeshmishra@gmail.com**
+- 📍 **Gurugram, Haryana, India**
+- 🌐 **English & Hindi**
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
-**Technical Tools:**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
 ---
 
@@ -38,38 +44,66 @@
 
 | Area | Skills |
 |------|--------|
-| 📊 Analytics | MIS Reporting, KPI Tracking, Dashboard Development, Trend Analysis |
-| 🤖 Automation | Report Automation, Email Automation, Workflow Optimization |
-| 💼 Business | Finance Reporting, Cost Leakage Analysis, Stakeholder Coordination |
+| 📊 **Analytics** | MIS Reporting, KPI Tracking, Dashboard Development, Trend Analysis, Exception Reporting |
+| 🤖 **Automation** | Report Automation, Email Automation, Workflow Optimization, Process Standardization |
+| 💼 **Business** | Finance Reporting, Cost Leakage Analysis, Stakeholder Coordination, Data-Driven Decision Making |
 
 ---
 
 ### 💼 Experience Highlights
 
-🏢 **Data Analyst @ Carrum Mobility Solutions** *(Aug 2024 – Present)*
-- Analyzed **50,000+ monthly records** using SQL & BigQuery
-- Built **5+ automated MIS dashboards** in Looker Studio & Power BI
-- Reduced manual effort by **50%+**
+**🏢 Data Analyst — Carrum Mobility Solutions** *(Aug 2024 – Present | Gurugram)*
+- 🔍 Analyzed **50,000+ monthly records** using SQL & BigQuery across revenue, payouts & performance
+- 📊 Built **5+ automated MIS dashboards** in Looker Studio & Power BI — reduced turnaround by **50%+**
+- ⚡ Designed KPI tracking & exception reporting frameworks enabling **2x faster issue identification**
+- 💰 Identified cost leakages & payout mismatches through deep-dive data analysis
+- 🔗 Cleaned & standardized data from **5+ operational sources**
 
-🏢 **MIS Executive @ BMT Travels India Pvt Ltd** *(Jun 2023 – Aug 2024)*
-- Automated tracking of **1,000+ monthly bookings** using Apps Script
-- Reduced report generation time from **hours to minutes**
+**🏢 MIS Executive — BMT Travels India Pvt Ltd** *(Jun 2023 – Aug 2024 | Gurugram)*
+- 📋 Managed daily MIS for bookings, cancellations & revenue — serving **3 internal teams**
+- 🤖 Created automated tracking using Apps Script — reduced report time from **hours to minutes**
+- 📧 Built email reminder system improving customer communication for **1,000+ monthly bookings**
+- 📉 Automated recurring reports using Excel + Power Query — reduced manual effort by **40%+**
 
 ---
 
 ### 🎓 Education
 
-- 🎓 **Bachelor of Arts (B.A.)** — Prof. Rajendra Singh (Raju Bhaiya) University, Prayagraj *(2021–2024)*
+- 🎓 **Bachelor of Arts (B.A.)** — Prof. Rajendra Singh University, Prayagraj *(2021–2024)*
 - 📚 **Intermediate** — S L B Inter College, Prayagraj *(2020–2021)*
 
 ---
 
-### 📊 GitHub Stats
+### 📂 Featured Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [📊 MIS Automation Dashboard](https://github.com/mrvimeshmishra-code/MIS-Automation-Dashboard) | Automated daily/weekly MIS reporting system | Apps Script, Google Sheets, SQL |
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrvimeshmishra-code&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvimeshmishra-code&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">💡 <i>"Turning data into decisions, one dashboard at a time."</i></p>
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:mr.vimeshmishra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mrvimeshmishra-code">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "Turning data into decisions, one dashboard at a time."</i>
+</p>
