@@ -78,7 +78,7 @@
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [📊 MIS Automation Dashboard](https://github.com/mrvimeshmishra-code/MIS-Automation-Dashboard) | Automated daily/weekly MIS reporting system | Apps Script, Google Sheets, SQL |
+| [📊 MIS Automation Dashboard](https://github.com/mrvimeshmishra-code/MIS-Automation-Dashboard) | Automated daily/weekly MIS reporting system with KPI tracking & email alerts | Apps Script, Google Sheets, SQL |
 
 ---
 
@@ -93,6 +93,10 @@
 ### 📬 Connect With Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/vimesh-kumar-mishra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:mr.vimeshmishra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
