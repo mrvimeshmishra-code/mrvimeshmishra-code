@@ -116,3 +116,24 @@
 <p align="center">
   <i>💡 "Turning data into decisions, one dashboard at a time."</i>
 </p>
+
+
+---
+
+## 🔍 Latest Project — LinkedIn Delhi DA Job Tracker
+
+<a href="https://github.com/mrvimeshmishra-code/linkedin-delhi-da-job-tracker">
+  <img src="https://img.shields.io/badge/🔍%20LinkedIn%20Job%20Tracker-New%20Project-brightgreen?style=for-the-badge" />
+</a>
+
+> **Automatically scrapes LinkedIn Delhi/NCR Data Analyst job posts → appends to Google Sheets**
+
+| Feature | Details |
+|---------|---------|
+| 🎯 Search | Data Analyst jobs in Delhi/NCR |
+| 📊 Output | Google Sheets (auto-append, no duplicates) |
+| ⏰ Trigger | Daily at 9 AM IST (auto-run) |
+| 📧 Alert | Email summary after each run |
+| 🛠️ Tech | Google Apps Script + UrlFetchApp + Gmail API |
+
+📂 [**View Project →**](https://github.com/mrvimeshmishra-code/linkedin-delhi-da-job-tracker)
